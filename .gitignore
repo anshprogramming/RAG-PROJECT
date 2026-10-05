@@ -1,0 +1,5 @@
+venv/
+.chroma/
+__pycache__/
+*.pdf
+temp_*.pdf
